@@ -1,0 +1,22 @@
+{
+  "name": "test-dubdomains",
+  "version": "0.0.1",
+  "description": "Testing subdomains with nginx / passenger",
+  "author": {
+    "name": "Stefan Aebischer",
+    "email": "aebischer@pixtron.ch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pAlpha627/test-server.git"
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js"
+}
